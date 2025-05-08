@@ -1,2 +1,2 @@
-# MSGLF-Net
-MSGLF-Net  An Intelligent Multi-Scale Global-Local Feature Fusion Network for Road Extraction
+GLMA-Net
+A Road Extraction Network based on Global-Local Perspective and Morphological Adaptation
